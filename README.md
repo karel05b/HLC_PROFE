@@ -9,7 +9,14 @@ Manuel Moreno Casado ==> https://github.com/manuel09097/hlc_manuel.git
 
 Daniel Gómez Otero ==> https://github.com/danigomez14/HLC_DANI.git
 
-Francisco José Pérez Calderón ==> https://github.com/SrPescadito/HLC_FJPC.git
 
 
-Manuel Guisado Marrón ==> https://github.com/ManuGxx/Prueba-PHP.git
+
+
+
+
+
+
+
+
+Adolfo Garrido Cosano --> fauna --> https://github.com/Adolfo-afk/php.git
