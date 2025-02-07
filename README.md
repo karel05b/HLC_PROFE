@@ -7,19 +7,19 @@ Nombre: ==> Repo
 
 Manuel Moreno Casado ==> https://github.com/manuel09097/hlc_manuel.git => Biblioteca
 
-José Ángel Perea Domínguez ==> https://github.com/Peraa11/HLC_TRABAJO => Champions
+Daniel Gómez Otero ==> https://github.com/danigomez14/HLC_DANI.git Tema proyecto = Semana Santa.
 
-Daniel Gómez Otero ==> https://github.com/danigomez14/HLC_DANI.git => Semana Santa.
-
-Francisco José Pérez Calderón ==> https://github.com/SrPescadito/HLC_FJPC.git
-
-Manuel Guisado Marrón ==> https://github.com/ManuGxx/Prueba-PHP.git
+Francisco José Pérez Calderón ==> https://github.com/SrPescadito/HLC_FJPC.git => Acuario
 
 Israel Barrero Gómez ==> https://github.com/karel05b/HLC_Israel.git => Concesionario
 
 Adolfo Garrido Cosano --> fauna --> https://github.com/Adolfo-afk/php.git => Fauna
 
-Manuel Guisado Marrón ==> https://github.com/ManuGxx/Prueba-PHP.git =>
+Manuel Guisado Marrón ==> https://github.com/ManuGxx/Prueba-PHP.git => Series
 
-Jose Joaquin Torres Ramirez ==> https://github.com/betiko0166/phpmyadmin-proyecto.git
+Jose Joaquin Torres Ramirez ==> https://github.com/betiko0166/phpmyadmin-proyecto.git => Videojuegos
+
+Alberto Román Ruiz ==> https://github.com/aromrui1303/HLC_Alberto.git => Supermercado
+
+
 
